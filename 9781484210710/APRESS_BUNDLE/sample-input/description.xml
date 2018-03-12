@@ -1,0 +1,18 @@
+<add commitWithin="1000" >
+	<doc>
+		<field name="id">11</field>
+		<field name="description">While Bob took the initial lead in race John Kere finally won it</field>
+	</doc>
+	<doc>
+		<field name="id">12</field>
+		<field name="description">Bob Marley was a legendary Jamaican reggae singer</field>
+	</doc>
+		<doc>
+		<field name="id">13</field>
+		<field name="description">Jamaican singer Bob Marley has influenced many singers across the world</field>
+	</doc>
+		<doc>
+		<field name="id">14</field>
+		<field name="description">Bob is a renowned rugby player</field>
+	</doc>
+</add>

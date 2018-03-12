@@ -1,0 +1,9 @@
+id,name,cat,content_type,features,inStock
+21,Nikon Nikkor AFS 18-140 lens,lens,Zoom Lens,Zoom Lens,true
+22,Nikon D3300,camera,Camera,Camera,true
+23,Nikon D5200,camera,Camera,Camera,false
+24,MacBook Pro,laptop,laptop,13 inch,true
+25,Nikon Nikkor AFS 18-55 lens,lens,Zoom Lens,Zoom Lens,true
+26,MacBook Pro,laptop,laptop,15 inch,true
+27,Nippon,battery,battery,battery,true
+28,Nikon Nikkor AFS 50mm lens,lens,Prime Lens,Prime Lens,true

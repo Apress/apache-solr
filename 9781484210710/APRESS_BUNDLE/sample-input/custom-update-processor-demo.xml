@@ -1,0 +1,10 @@
+<add commitWithin="1000">
+	<doc>
+		<field name="id">123</field>
+		<field name="downloadcount">1200000</field>
+	</doc>
+	<doc>
+		<field name="id">125</field>
+		<field name="downloadcount">1000</field>
+	</doc>
+</add>

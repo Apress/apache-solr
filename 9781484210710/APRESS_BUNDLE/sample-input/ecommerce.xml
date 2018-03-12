@@ -1,0 +1,27 @@
+<add commitWithin="1000">
+	<doc>
+		<field name="id">1</field>
+		<field name="product">blazer</field>
+		<field name="trendcount">7</field>
+	</doc>
+	<doc>
+		<field name="id">2</field>
+		<field name="product">shirt</field>
+		<field name="trendcount">8</field>
+	</doc>
+		<doc>
+		<field name="id">3</field>
+		<field name="product">t-shirt</field>
+		<field name="trendcount">9</field>
+	</doc>
+		<doc>
+		<field name="id">4</field>
+		<field name="product">blazer</field>
+		<field name="trendcount">8</field>
+	</doc>
+		<doc>
+		<field name="id">5</field>
+		<field name="product">blazer</field>
+		<field name="trendcount">9</field>
+	</doc>
+</add>
