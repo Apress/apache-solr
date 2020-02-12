@@ -8,7 +8,7 @@
 	<description>Sample source code for book on Apache Solr: A practical approach to Enterprise Search</description>
 
 	<properties>
-		<solr.version>5.3.1</solr.version>
+		<solr.version>8.4.0</solr.version>
 		<opennlp.uima.version>1.6.0</opennlp.uima.version>
 		<opennlp.tools.version>1.6.0</opennlp.tools.version>
 		<wordnet.jwnl.version>1.4_rc3</wordnet.jwnl.version>
